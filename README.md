@@ -5,3 +5,9 @@ This repository contains a list of native javascript functions that have been co
 Current status:
 
 Array functions
+
+
+Todos:
+
+Test string functions for async behaviors
+Implement remaining array functions
